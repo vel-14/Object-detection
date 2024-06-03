@@ -1,0 +1,8 @@
+path: /Users/velmurugan/Desktop/@/python_works/computer vision
+train: images/train
+val: images/val
+
+#classes
+names:
+  0: SpiderMan
+  1: Others
